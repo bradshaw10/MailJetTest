@@ -1,0 +1,17 @@
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\MailJetTest.exe
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\MailJetTest.deps.json
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\MailJetTest.runtimeconfig.json
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\MailJetTest.runtimeconfig.dev.json
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\MailJetTest.dll
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\MailJetTest.pdb
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\Mailjet.Client.dll
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.csprojAssemblyReference.cache
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.AssemblyInfoInputs.cache
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.AssemblyInfo.cs
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.csproj.CoreCompileInputs.cache
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.csproj.CopyComplete
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.dll
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.pdb
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\obj\Debug\netcoreapp3.1\MailJetTest.genruntimeconfig.cache
+C:\Users\EBradshaw\Documents\GitHub\MailJetTest\MailJetTest\bin\Debug\netcoreapp3.1\nunit.framework.dll

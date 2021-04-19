@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4gwAbhR40zqrQ90ZsRZCl7X2NkYYyQqys5anew2RTw0zbtsC0ns9y+dCQFXmVht24aj+73a8iZ6qV090O6t1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EBradshaw\\Documents\\GitHub\\MailJetTest\\MailJetTest\\MailJetTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\mailjet.api\\2.0.1\\mailjet.api.2.0.1.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\EBradshaw\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
