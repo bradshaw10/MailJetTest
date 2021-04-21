@@ -45,9 +45,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.11.1, )"
+            },
             "Mailjet.Api": {
               "target": "Package",
               "version": "[2.0.1, )"
+            },
+            "MimeKit": {
+              "target": "Package",
+              "version": "[2.11.0, )"
             },
             "NUnit": {
               "target": "Package",
