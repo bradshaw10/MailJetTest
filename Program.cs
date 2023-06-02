@@ -18,8 +18,8 @@ namespace MailJetTest
 
         static async Task RunAsync()
         {
-            MailjetClient client = new MailjetClient("07504f4dbf9d9e35d3b3362dfcd6791f",
-                "7779f26f8e94259fabd64ddbdc5d6747");
+            MailjetClient client = new MailjetClient("",
+                "");
 
             MailjetRequest request = new MailjetRequest
             {
